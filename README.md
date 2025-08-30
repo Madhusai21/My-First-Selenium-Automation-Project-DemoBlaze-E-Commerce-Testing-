@@ -3,9 +3,13 @@
 I’m thrilled to share my first automation testing project, where I built a Python-Selenium script to automate an end-to-end user journey on DemoBlaze..
 
 #What I automated:
+
 1.User Sign-Up and Login
+
 2.Navigating product categories
+
 3.Selecting a product, adding it to the cart
+
 4.Placing an order (completing the checkout form)
 
 #Testing approaches demonstrated:
